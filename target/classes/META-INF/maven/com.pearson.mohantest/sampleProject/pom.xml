@@ -4,7 +4,7 @@
 
   <groupId>com.pearson.mohantest</groupId>
   <artifactId>sampleProject</artifactId>
-  <version>0.0.3-SNAPSHOT</version>
+  <version>1.0.4</version>
   <packaging>jar</packaging>
 
   <name>sampleProject</name>
